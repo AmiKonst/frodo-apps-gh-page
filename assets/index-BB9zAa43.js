@@ -1,4 +1,4 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/Main-DT-_zcVh.js","assets/Main-06ccxSak.css"])))=>i.map(i=>d[i]);
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/Main-W-gZi6Cc.js","assets/Main-06ccxSak.css"])))=>i.map(i=>d[i]);
 true              &&(function polyfill() {
   const relList = document.createElement("link").relList;
   if (relList && relList.supports && relList.supports("modulepreload")) {
@@ -24846,7 +24846,7 @@ const routes = [
   {
     path: "/",
     name: "/",
-    component: () => __vitePreload(() => import('./Main-DT-_zcVh.js'),true              ?__vite__mapDeps([0,1]):void 0),
+    component: () => __vitePreload(() => import('./Main-W-gZi6Cc.js'),true              ?__vite__mapDeps([0,1]):void 0),
     abort: []
   }
 ];
@@ -43689,7 +43689,7 @@ const useAppsStore = defineStore('apps', {
             {
                 featured: true,
                 freemium: true,
-                url: 'http://localhost:3001/miracle-gh-page/',
+                url: 'https://miracle.bilbomusic.com',
                 author: {
                     name: 'Bilbo Labs'
                 },
@@ -45545,4 +45545,4 @@ app.config.globalProperties.$message = message;
 app.mount("#bapps-app");
 
 export { Fragment as F, _export_sfc as _, createBaseVNode as a, unref as b, createElementBlock as c, createCommentVNode as d, createStaticVNode as e, onMounted as f, onBeforeUnmount as g, ref as h, createBlock as i, createVNode as j, openBlock as o, renderList as r, stores as s, toDisplayString$1 as t, useI18n as u };
-//# sourceMappingURL=index-57RhBdkn.js.map
+//# sourceMappingURL=index-BB9zAa43.js.map
